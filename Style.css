@@ -1,0 +1,40 @@
+/* Style for the header using an ID selector */
+#main-header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style for sections using a class selector */
+.content-section {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #4CAF50;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style for the image using a class selector */
+.styled-image {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #4CAF50;
+    padding: 10px;
+    width: 50%;
+}
+
+/* Footer styling using a simple selector */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
